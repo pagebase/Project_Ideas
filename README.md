@@ -2,6 +2,7 @@
 
 1. [Face detection system](#Project-1)
 2. [Quiz generator](#Project-2)
+3. [Android app for sorting data based on file extensions](#file-sorting-android-app)
 
 ---
 # Project 1
@@ -288,6 +289,17 @@ A clear, structured roadmap to learn **face detection**, even under **noisy or p
 |UI|Streamlit, Gradio|
 |Vector DB|FAISS, Chroma|
 |Hosting|Streamlit Cloud, Hugging Face|
+
+---
+
+---
+
+---
+
+---
+# Project 3
+
+## File sorting android app
 
 ---
 
